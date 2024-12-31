@@ -21,12 +21,12 @@ O desafio consiste em modelar um banco de dados para um sistema de e-commerce qu
 - Um produto ou mais compoem o pedido
 - O pedido pode ser cancelado
 
-### Narrativa - Fornecedor (Criada de forma Participativa durante a criação do Modelo Inicial)
+### Narrativa - Fornecedor (Criada de forma Participativa durante a aula de criação do Modelo Inicial)
 - Cada fornecedor é responsável por fornecer produtos à plataforma, mas não está diretamente relacionado ao controle do estoque.
 - Um fornecedor pode fornecer diversos produtos distintos.
 - Os fornecedores têm informações de contato cadastradas, que podem ser utilizadas para negociações ou consultas.
 
-### Narrativa - Estoque (Criada de forma Participativa durante a criação do Modelo Inicial)
+### Narrativa - Estoque (Criada de forma Participativa durante a aula de criação do Modelo Inicial)
 - O estoque registra a quantidade disponível de produtos para venda e sua localização.
 - Cada estoque armazena diferentes produtos e quantidades.
 - Fornecedores podem estar associados a diferentes estoques.
