@@ -42,14 +42,6 @@ Refinar o modelo inicial para incluir os seguintes pontos:
 
 - **Entrega:** - Possui status e código de rastreio;
 
-## Modelo Relacional Refinado
-
-O modelo relacional refinado é representado pelo diagrama a seguir:
-
-![Modelo Relacional Refinado](modelagem_e-commerce_refinado.png)
-
----
-
 ## Estrutura do Banco de Dados
 
 1. **Cliente**
@@ -137,13 +129,21 @@ O modelo relacional refinado é representado pelo diagrama a seguir:
     - `Produto_produto_id` (chave estrangeira para `Produto`)
     - `quantidade` (quantidade de produtos no pedido)
 
----
-
 ## Como Usar
 
-1. Baixe ou clone este repositório:
+1. **Visualizar o arquivo**  
+   Clique no link abaixo para visualizar o arquivo diretamente no navegador:  
+   [Visualizar o arquivo](https://github.com/JoseMSSouza/DioSuzano/blob/main/modelagem_e-commerce_refinado.png)
+
+2. **Baixar o arquivo**  
+   Use o comando abaixo para baixar o arquivo diretamente no terminal:  
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   wget https://raw.githubusercontent.com/JoseMSSouza/DioSuzano/main/modelagem_e-commerce_refinado.png
+
+3. **Clonar o repositório** 
+   Use o comando abaixo para clonar o repositório inteiro:  
+   ```bash
+   git clone https://github.com/JoseMSSouza/DioSuzano.git
 
 
 ## Tecnologias Utilizadas
