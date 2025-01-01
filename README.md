@@ -1,6 +1,6 @@
 # Desafio de Projeto: Modelagem Conceitual de Banco de Dados para E-commerce
 
-Este repositório contém a solução do desafio de projeto proposto pela [DIO](https://web.dio.me/home) no **Bootcamp Suzano - Análise de Dados com Power BI**. O objetivo foi modelar e refinar um banco de dados conceitual para um sistema de e-commerce.
+Este repositório contém a solução do desafio de projeto proposto pela [DIO](https://www.dio.me/) no **Bootcamp Suzano - Análise de Dados com Power BI**. O objetivo foi modelar e refinar um banco de dados conceitual para um sistema de e-commerce.
 
 ## Descrição do Desafio
 
@@ -151,4 +151,4 @@ Refinar o modelo inicial para incluir os seguintes pontos:
 - **Banco de dados MySQL**.
 
 ## Sobre o Projeto
-Este desafio faz parte do **Bootcamp Suzano - Análise de Dados com Power BI**, oferecido pela [DIO](https://web.dio.me/home). O objetivo foi aprimorar habilidades em modelagem e design de banco de dados, proporcionando uma experiência prática com cenários reais e exigências específicas do mercado.
+Este desafio faz parte do **Bootcamp Suzano - Análise de Dados com Power BI**, oferecido pela [DIO](https://www.dio.me/). O objetivo foi aprimorar habilidades em modelagem e design de banco de dados, proporcionando uma experiência prática com cenários reais e exigências específicas do mercado.
