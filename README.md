@@ -139,8 +139,7 @@ Refinar o modelo inicial para incluir os seguintes pontos:
 2. **Baixar o arquivo**  
    Use o comando abaixo para baixar o arquivo diretamente no terminal:  
    ```bash
-   wget https://raw.githubusercontent.com/JoseMSdeSouza/DioSuzano/main/Desafio_1 - modelagem_e-commerce_refinado.png
-
+   wget "https://raw.githubusercontent.com/JoseMSdeSouza/DioSuzano/main/Desafio_1-modelagem_e-commerce_refinado.png"
 
 3. **Clonar o repositório** 
    Use o comando abaixo para clonar o repositório inteiro:  
