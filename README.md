@@ -133,17 +133,19 @@ Refinar o modelo inicial para incluir os seguintes pontos:
 
 1. **Visualizar o arquivo**  
    Clique no link abaixo para visualizar o arquivo diretamente no navegador:  
-   [Visualizar o arquivo](https://github.com/JoseMSdeSouza/DioSuzano/blob/main/modelagem_e-commerce_refinado.png)
+   [Visualizar o arquivo](https://github.com/JoseMSdeSouza/DioSuzano/blob/main/Desafio_1 - modelagem_e-commerce_refinado.png
+)
 
 2. **Baixar o arquivo**  
    Use o comando abaixo para baixar o arquivo diretamente no terminal:  
    ```bash
-   wget https://raw.githubusercontent.com/JoseMSSouza/DioSuzano/main/modelagem_e-commerce_refinado.png
+   wget https://raw.githubusercontent.com/JoseMSdeSouza/DioSuzano/main/Desafio_1 - modelagem_e-commerce_refinado.png
+
 
 3. **Clonar o repositório** 
    Use o comando abaixo para clonar o repositório inteiro:  
    ```bash
-   git clone https://github.com/JoseMSSouza/DioSuzano.git
+   git clone https://github.com/JoseMSdeSouza/DioSuzano.git
 
 
 ## Tecnologias Utilizadas
