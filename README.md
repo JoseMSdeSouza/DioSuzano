@@ -133,7 +133,7 @@ Refinar o modelo inicial para incluir os seguintes pontos:
 
 1. **Visualizar o arquivo**  
    Clique no link abaixo para visualizar o arquivo diretamente no navegador:  
-   [Visualizar o arquivo](https://github.com/JoseMSdeSouza/DioSuzano/blob/main/Desafio_1-Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
+   [Visualizar o arquivo](https://github.com/JoseMSdeSouza/DioSuzano/blob/main/desafio_1-refinando_projeto_conceitual_bd-ecommerce.png
 )
 
 2. **Baixar o arquivo**  
