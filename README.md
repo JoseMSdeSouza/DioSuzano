@@ -38,14 +38,7 @@ Este repositório contém as soluções dos desafios de projeto propostos pela [
    - [Desafio 2 - Oficina Automotiva](https://github.com/JoseMSdeSouza/DioSuzano/tree/main/Desafio_2)
    - [Desafio 3 - E-commerce DER](https://github.com/JoseMSdeSouza/DioSuzano/tree/main/Desafio_3)
 
-2. **Baixar os Arquivos**  
-   Utilize o comando `wget` para baixar os arquivos individualmente:  
-   ```bash
-   wget "https://raw.githubusercontent.com/JoseMSdeSouza/DioSuzano/main/desafio_1-refinando_projeto_conceitual_bd-ecommerce.png"
-   wget "https://raw.githubusercontent.com/JoseMSdeSouza/DioSuzano/main/desafio_2-esquema_conceitual-oficina_automotiva.png"
-   wget "https://raw.githubusercontent.com/JoseMSdeSouza/DioSuzano/main/desafio_3-der-ecommerce.png"
-
-3. **Clonar o repositório** 
+2. **Clonar o repositório** 
    Use o comando abaixo para clonar o repositório inteiro:  
    ```bash
    git clone https://github.com/JoseMSdeSouza/DioSuzano.git
