@@ -30,6 +30,15 @@ Este repositório contém as soluções dos desafios de projeto propostos pela [
 
 ---
 
+### **desafio_4**
+#### Cenário: Esquema Lógico para um Contexto de Oficina Automotiva.
+- O desafio envolve a criação de um banco de dados para uma oficina automotiva, onde o sistema gerencia informações sobre os serviços prestados, veículos atendidos, peças utilizadas e os profissionais envolvidos.
+- O banco de dados deve registrar as ordens de serviço, com dados como número de serviço, cliente, veículo, valor de mão de obra e peças utilizadas.
+- Além disso, é necessário garantir que o estoque de peças esteja atualizado e que as ordens de serviço possam ser associadas a mecânicos e serviços específicos.
+- Foram criadas consultas SQL para responder a perguntas como o valor total de uma ordem de serviço, os mecânicos mais caros, e os serviços realizados em veículos específicos.
+
+---
+
 ## **Como Usar**
 
 1. **Visualizar Arquivos**  
