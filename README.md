@@ -34,9 +34,9 @@ Este repositório contém as soluções dos desafios de projeto propostos pela [
 
 1. **Visualizar Arquivos**  
    Clique nos links abaixo para visualizar os modelos conceituais diretamente no navegador ou acessar os scripts SQL:  
-   - [Desafio 1 - E-commerce](https://github.com/JoseMSdeSouza/DioSuzano/blob/main/desafio_1-refinando_projeto_conceitual_bd-ecommerce.png)
-   - [Desafio 2 - Oficina Automotiva](https://github.com/JoseMSdeSouza/DioSuzano/blob/main/desafio_2-esquema_conceitual-oficina_automotiva.png)
-   - [Desafio 3 - E-commerce DER](https://github.com/JoseMSdeSouza/DioSuzano/blob/main/desafio_3-der-ecommerce.png)
+   - [Desafio 1 - E-commerce](https://github.com/JoseMSdeSouza/DioSuzano/tree/main/Desafio_1)
+   - [Desafio 2 - Oficina Automotiva](https://github.com/JoseMSdeSouza/DioSuzano/tree/main/Desafio_2)
+   - [Desafio 3 - E-commerce DER](https://github.com/JoseMSdeSouza/DioSuzano/tree/main/Desafio_3)
 
 2. **Baixar os Arquivos**  
    Utilize o comando `wget` para baixar os arquivos individualmente:  
